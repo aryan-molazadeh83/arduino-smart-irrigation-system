@@ -2,7 +2,7 @@
 
 A three-person Applied Electronics course project at Sharif University of Technology. The project implements a physical Arduino-based plant irrigation prototype with soil-moisture sensing, PWM pump actuation, safety monitoring, and a local wireless RemoteXY interface.
 
-![Physical prototype](figures/prototype_setup.png)
+![Physical prototype](figures/prototype.png)
 
 ## Overview
 
@@ -85,7 +85,7 @@ arduino-smart-irrigation-system/
 ├── firmware/
 │   └── smart_irrigation_system.ino
 ├── figures/
-│   ├── prototype_setup.png
+│   ├── prototype.png
 │   ├── remotexy_interface.png
 │   └── system_schematic.png
 ├── report/

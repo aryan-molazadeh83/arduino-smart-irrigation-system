@@ -4,8 +4,9 @@ build/
 *.elf
 *.bin
 
-# OS/editor files
+# OS / editor files
 .DS_Store
 Thumbs.db
+desktop.ini
 .vscode/
 .idea/
